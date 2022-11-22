@@ -1,1 +1,1 @@
-something something start here
+# Trying to figure out where to begin or what api I want to utilize for this project. May use a weather api, maybe music, maybe add ML capabilities if I get that far
