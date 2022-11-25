@@ -175,3 +175,4 @@ File Path                                                                       
 /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.21s           2022-11-23T15:47:02
 /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                  6           0  0.21s           2022-11-23T15:47:04
 ================================================================================
+[2022-11-23T10:17:14.637-0600] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
