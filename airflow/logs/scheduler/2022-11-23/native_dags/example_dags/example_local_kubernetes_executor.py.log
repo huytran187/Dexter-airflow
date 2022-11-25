@@ -1,0 +1,33 @@
+[2022-11-23T09:46:30.623-0600] {processor.py:154} INFO - Started process (PID=16946) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:46:30.625-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-11-23T09:46:30.630-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:30.630-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:46:30.652-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:30.652-0600] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-11-23T09:46:30.653-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:30.653-0600] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-11-23T09:46:30.653-0600] {processor.py:768} WARNING - No viable dags retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:46:30.659-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2022-11-23T09:47:09.836-0600] {processor.py:154} INFO - Started process (PID=17057) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:09.836-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-11-23T09:47:09.837-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:09.837-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:09.855-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:09.855-0600] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-11-23T09:47:09.855-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:09.855-0600] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-11-23T09:47:09.855-0600] {processor.py:768} WARNING - No viable dags retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:09.869-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2022-11-23T09:47:53.375-0600] {processor.py:154} INFO - Started process (PID=17124) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:53.378-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-11-23T09:47:53.381-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:53.381-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:53.403-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:53.402-0600] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-11-23T09:47:53.403-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:53.403-0600] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-11-23T09:47:53.403-0600] {processor.py:768} WARNING - No viable dags retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-11-23T09:47:53.409-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.042 seconds

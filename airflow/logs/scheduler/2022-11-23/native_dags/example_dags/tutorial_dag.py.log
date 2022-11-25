@@ -1,0 +1,25 @@
+[2022-11-23T09:45:59.597-0600] {processor.py:154} INFO - Started process (PID=16823) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:45:59.598-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2022-11-23T09:45:59.599-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.598-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:45:59.608-0600] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:45:59.697-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.697-0600] {manager.py:507} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2022-11-23T09:45:59.705-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.705-0600] {manager.py:507} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2022-11-23T09:45:59.712-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.712-0600] {manager.py:507} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2022-11-23T09:45:59.712-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.712-0600] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T09:45:59.724-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.724-0600] {dag.py:2606} INFO - Creating ORM DAG for tutorial_dag
+[2022-11-23T09:45:59.730-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:45:59.730-0600] {dag.py:3336} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2022-11-23T09:45:59.743-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.148 seconds
+[2022-11-23T09:46:43.559-0600] {processor.py:154} INFO - Started process (PID=16965) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:46:43.560-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2022-11-23T09:46:43.562-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:43.561-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:46:43.574-0600] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:46:43.598-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:43.598-0600] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T09:46:43.616-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:46:43.616-0600] {dag.py:3336} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2022-11-23T09:46:43.646-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2022-11-23T09:47:22.538-0600] {processor.py:154} INFO - Started process (PID=17072) to work on /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:47:22.540-0600] {processor.py:756} INFO - Processing file /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2022-11-23T09:47:22.543-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:22.543-0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:47:22.565-0600] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2022-11-23T09:47:22.588-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:22.587-0600] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T09:47:22.601-0600] {logging_mixin.py:137} INFO - [2022-11-23T09:47:22.601-0600] {dag.py:3336} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2022-11-23T09:47:22.626-0600] {processor.py:176} INFO - Processing /home/Rex/jetbrains-toolbox-1.26.5.13419/Py/Dexter-airflow/venv/lib64/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
